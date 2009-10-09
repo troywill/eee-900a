@@ -1,0 +1,2 @@
+1. Device Drivers -> Graphics support -> /dev/agpart (AGP Support) -> Intel 440LX/BX/GX, I8xx and E7x05 chipset support
+2. Device Drivers -> Graphics support -> Direct Rendering Manager (XF86 4.1.0 and higher DRI support -> Intel 830M, 845G, 852GM, 865G (i915 Driver) -> i915 driver
