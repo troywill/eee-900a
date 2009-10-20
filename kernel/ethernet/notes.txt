@@ -1,1 +1,0 @@
-Device Drivers -> Network device support -> Ethernet (1000 Mbit) -> Atheros L1E Gigabit Ethernet support (EXPERIMENTAL)
