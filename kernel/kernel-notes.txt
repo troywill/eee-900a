@@ -21,3 +21,13 @@ Processor type and features -> Processor family -> Core2/newer Xeon
 ########## audio
 
 00:1b.0 Audio device: Intel Corporation 82801G (ICH7 Family) High Definition Audio Controller (rev 02)
+
+########## Sata
+Serial ATA (prod) and Parallel ATA (experimental) drivers
+Intel ESB, ICH, PIIX3, PIIX4 PATA/SATA support
+
+Yealink usb-p1k voip phone
+VESA VGA graphics support
+
+MMC/SD/SDIO card support  ---> ????
+NTFS file system support
